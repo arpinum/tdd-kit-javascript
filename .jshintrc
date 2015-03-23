@@ -1,0 +1,30 @@
+{
+  "bitwise": true,
+  "forin": true,
+  "freeze": true,
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "indent": 4,
+  "latedef": "nofunc",
+  "newcap": true,
+  "noarg": true,
+  "nonbsp": true,
+  "nonew": true,
+  "noempty": true,
+  "eqnull": true,
+  "unused": true,
+  "quotmark": "single",
+  "strict": true,
+  "node": true,
+  "expr": true,
+  "laxbreak": true,
+  "globals": {
+    "describe": false,
+    "it": false,
+    "before": false,
+    "beforeEach": false,
+    "after": false,
+    "afterEach": false
+  }
+}
