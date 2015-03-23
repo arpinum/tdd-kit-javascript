@@ -31,8 +31,8 @@ Copyright (C) 2015, Arpinum
 
 You should have received a copy of the GNU General Public License along with **TDD Kit**.  If not, see [http://www.gnu.org/licenses/lgpl.html].
 
-[http://www.gnu.org/licenses/lgpl.html]: http://www.gnu.org/licenses/lgpl.html    
 
+[http://www.gnu.org/licenses/lgpl.html]: http://www.gnu.org/licenses/lgpl.html
 [chai BDD api]: http://chaijs.com/api/bdd
 [mocha cli]: http://mochajs.org/#usage
 [jshint]: http://jshint.com/docs
