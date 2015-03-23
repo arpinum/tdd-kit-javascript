@@ -1,4 +1,4 @@
-# TDD Kit - JavaScript BDD
+# TDD Kit - JavaScript BDD [![Travis status]](https://travis-ci.org/arpinum/tdd-kit-javascript-bdd)
 
 ## Initialization
 
@@ -39,3 +39,4 @@ You should have received a copy of the GNU General Public License along with **T
 [istanbul]: https://github.com/gotwarlost/istanbul
 [sinonjs]: http://sinonjs.org/docs
 [sinon-chai]: https://github.com/domenic/sinon-chai
+[Travis status]: https://travis-ci.org/arpinum/tdd-kit-javascript-xunit.png?branch=master
