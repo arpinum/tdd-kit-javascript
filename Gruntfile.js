@@ -11,10 +11,10 @@ module.exports = function (grunt) {
                 command: bin + '/jshint .'
             },
             mocha: {
-                command: bin + '/mocha --colors --reporter spec --recursive tests'
+                command: bin + '/mocha --colors --reporter spec --recursive specs'
             },
             istanbul: {
-                command: bin + '/istanbul cover ' + bin + '/_mocha -- --reporter dot --recursive tests'
+                command: bin + '/istanbul cover ' + bin + '/_mocha -- --reporter dot --recursive specs'
             }
         }
     });
