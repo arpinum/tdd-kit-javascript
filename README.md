@@ -14,11 +14,11 @@
 
 ## Libraries documentation
 
-* Assertion api: [chai BDD api]
-* Test runner: [mocha cli]
-* Linter: [jshint]
-* Coverage: [istanbul]
-* Mock api: [sinonjs]
+* Assertion api: [Chai BDD api]
+* Test runner: [Mocha cli]
+* Linter: [JSHint]
+* Coverage: [Istanbul]
+* Mock api: [Sinon.JS]
 * BDD Mock api: [sinon-chai]
 
 ## License
@@ -33,10 +33,10 @@ You should have received a copy of the GNU General Public License along with **T
 
 
 [http://www.gnu.org/licenses/lgpl.html]: http://www.gnu.org/licenses/lgpl.html
-[chai BDD api]: http://chaijs.com/api/bdd
-[mocha cli]: http://mochajs.org/#usage
-[jshint]: http://jshint.com/docs
-[istanbul]: https://github.com/gotwarlost/istanbul
-[sinonjs]: http://sinonjs.org/docs
+[Chai BDD api]: http://chaijs.com/api/bdd
+[Mocha cli]: http://mochajs.org/#usage
+[JSHint]: http://jshint.com/docs
+[Istanbul]: https://github.com/gotwarlost/istanbul
+[Sinon.JS]: http://sinonjs.org/docs
 [sinon-chai]: https://github.com/domenic/sinon-chai
 [Travis status]: https://travis-ci.org/arpinum/tdd-kit-javascript.png?branch=master
