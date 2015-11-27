@@ -32,7 +32,7 @@
 
 [Chai BDD api]: http://chaijs.com/api/bdd
 [Mocha cli]: http://mochajs.org/#usage
-[JSHint]: http://jshint.com/docs
+[ESLint]: http://eslint.org
 [Istanbul]: https://github.com/gotwarlost/istanbul
 [Sinon.JS]: http://sinonjs.org/docs
 [sinon-chai]: https://github.com/domenic/sinon-chai
