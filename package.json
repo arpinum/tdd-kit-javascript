@@ -5,8 +5,8 @@
   "private": true,
   "scripts": {
     "lint": "eslint .",
-    "cover": "istanbul cover node_modules/.bin/_mocha -- --reporter dot --recursive sources",
-    "test": "mocha --colors --reporter spec --recursive sources"
+    "cover": "istanbul cover node_modules/.bin/_mocha -- --reporter dot --recursive lib",
+    "test": "mocha --colors --reporter spec --recursive lib"
   },
   "author": "Arpinum",
   "license": "MIT",
