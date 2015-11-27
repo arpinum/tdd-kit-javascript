@@ -20,7 +20,7 @@
 
 * Assertion api: [Chai BDD api]
 * Test runner: [Mocha cli]
-* Linter: [JSHint]
+* Linter: [ESLint]
 * Coverage: [Istanbul]
 * Mock api: [Sinon.JS]
 * BDD Mock api: [sinon-chai]
