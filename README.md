@@ -29,7 +29,6 @@
 
 [MIT](LICENSE)
 
-
 [Chai BDD api]: http://chaijs.com/api/bdd
 [Mocha cli]: http://mochajs.org/#usage
 [ESLint]: http://eslint.org
