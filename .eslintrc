@@ -1,11 +1,18 @@
 {
   "extends": "eslint:recommended",
+  "rules": {
+    "no-console": 0
+  },
   "env": {
     "node": true
   },
   "globals": {
     "describe": false,
+    "beforeEach": false,
     "before": false,
-    "it": false
+    "afterEach": false,
+    "after": false,
+    "it": false,
+    "context": false
   }
 }
