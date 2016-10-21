@@ -10,7 +10,7 @@
 
 ## Run linting
 
-    npm run lint
+    npm run eslint
 
 ## Run coverage
 
